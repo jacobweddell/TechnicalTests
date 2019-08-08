@@ -1,0 +1,11 @@
+C:\Users\Jacob\source\TechnicalTests\XN.TechnicalTest\XN.TechnicalTest\bin\Debug\netcoreapp2.0\XN.TechnicalTest.deps.json
+C:\Users\Jacob\source\TechnicalTests\XN.TechnicalTest\XN.TechnicalTest\bin\Debug\netcoreapp2.0\XN.TechnicalTest.runtimeconfig.json
+C:\Users\Jacob\source\TechnicalTests\XN.TechnicalTest\XN.TechnicalTest\bin\Debug\netcoreapp2.0\XN.TechnicalTest.runtimeconfig.dev.json
+C:\Users\Jacob\source\TechnicalTests\XN.TechnicalTest\XN.TechnicalTest\bin\Debug\netcoreapp2.0\XN.TechnicalTest.dll
+C:\Users\Jacob\source\TechnicalTests\XN.TechnicalTest\XN.TechnicalTest\bin\Debug\netcoreapp2.0\XN.TechnicalTest.pdb
+C:\Users\Jacob\source\TechnicalTests\XN.TechnicalTest\XN.TechnicalTest\obj\Debug\netcoreapp2.0\XN.TechnicalTest.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\source\TechnicalTests\XN.TechnicalTest\XN.TechnicalTest\obj\Debug\netcoreapp2.0\XN.TechnicalTest.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\TechnicalTests\XN.TechnicalTest\XN.TechnicalTest\obj\Debug\netcoreapp2.0\XN.TechnicalTest.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\TechnicalTests\XN.TechnicalTest\XN.TechnicalTest\obj\Debug\netcoreapp2.0\XN.TechnicalTest.AssemblyInfo.cs
+C:\Users\Jacob\source\TechnicalTests\XN.TechnicalTest\XN.TechnicalTest\obj\Debug\netcoreapp2.0\XN.TechnicalTest.dll
+C:\Users\Jacob\source\TechnicalTests\XN.TechnicalTest\XN.TechnicalTest\obj\Debug\netcoreapp2.0\XN.TechnicalTest.pdb
